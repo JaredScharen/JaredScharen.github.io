@@ -7,3 +7,26 @@ body {
   width: 960px;
   margin: 10px auto;
 }
+	h1{
+		color: blue;
+		text-align: center;
+		}
+	h4{
+		color: #5A00FF;
+	}
+	#Summary {
+		color: green;
+	}
+	#ConnectWithMe {
+		text-align: left;
+		
+	}
+	img {
+		width: 25%;
+		border-color: green;
+		border-style: ridge;
+		text-align: center;
+	}
+	
+
+
