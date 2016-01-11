@@ -14,13 +14,13 @@ body {
 	h4{
 		color: #5A00FF;
 	}
-	#Summary {
+	.Summary {
 		color: green;
 	}
 	#ConnectWithMe {
 		text-align: left;
-		
 	}
+
 	img {
 		width: 25%;
 		border-color: green;
