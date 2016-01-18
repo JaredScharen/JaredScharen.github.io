@@ -1,3 +1,10 @@
 body {
-	<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+	font-family: 'Slabo 27px', serif;
 }
+.close {
+	color: #77216F;
+}
+img {
+		border-color: black;
+		width: 1290px; 
+	}
